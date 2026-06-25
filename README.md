@@ -1,6 +1,6 @@
 # Hi, I'm Chris Kriticos 
 
-### Building software, data analytics, and AI projects that solve real-world problems.
+## I build software, explore AI, and turn ideas into practical solutions.
 
 I'm currently completing a **Bachelor of Science in Computer Science** while developing applications, exploring artificial intelligence, and building tools that improve workflows, automate processes, and support better decision-making.
 
